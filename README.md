@@ -123,9 +123,3 @@ filler.batchProcess(templates, "output_dir/", data);
 - SLF4J (logging)
 
 ---
-
-If you want, I can:
-- shorten this further into a one-page quick-start,
-- add screenshots or sample files,
-- or produce a printable quick-reference sheet.
-```
