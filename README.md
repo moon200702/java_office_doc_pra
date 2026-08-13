@@ -425,14 +425,3 @@ filler.fillDocumentPreservingFormat("template.docx", "output.docx", data);
    java -Xmx2g -jar target/docx-autofill-jar-with-dependencies.jar ...
    ```
 
-## 📄 License
-
-Open source - available for personal and commercial use
-
-## 👨‍💻 Contributing
-
-Contributions welcome! Please feel free to submit pull requests or report issues.
-
-## 📧 Support
-
-For issues or questions, please refer to the USAGE.md file for more detailed documentation.
