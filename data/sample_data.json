@@ -1,0 +1,12 @@
+{
+  "name": "John Smith",
+  "email": "john.smith@example.com",
+  "phone": "+1-555-0123",
+  "date": "2024-01-15",
+  "company": "ABC Corporation",
+  "address": "123 Main Street, New York, NY 10001",
+  "position": "Senior Developer",
+  "salary": "$120,000",
+  "department": "Engineering",
+  "manager": "Jane Doe"
+}

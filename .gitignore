@@ -1,0 +1,47 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Build output
+bin/
+build/
+out/
+dist/
+
+# Logs
+*.log
+logs/
+
+# Test output
+output/
+output_*.docx
+test-*.docx
+filled_*.docx
+
+# OS specific
+.DS_Store
+Thumbs.db
